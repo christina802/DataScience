@@ -1,1 +1,5 @@
+1. College Visit Tours: Utilize data on college application/enrollment data in combination with distances between campuses for various Northeastern US regions to generate 5 optimal college visit regional tours of varying lengths, 3-7 days. Based on the college visit tours offered by EF (Education First).
 
+2. School Selection: Utilize data on graduation rates, college enrollment (including rankings of colleges), AP/IB courses offered, SAT & ACT scores, and tuition to generate a tool allowing parents to find the best private school value for their financial means. For the project, I would use a specific urban area with numerous local private schools (perhaps Los Angeles or New York).
+
+3. Compile data on restaurant categories (food style), price point, and average rating (Yelp/TripAdvisor/Facebook/etc, averaged to be out of 5) to create a regional restaurant market profile. Use would be to aid potential restauranteurs or investors in determining the viability of new concepts in the given market based on existing market saturation of similar concepts.
